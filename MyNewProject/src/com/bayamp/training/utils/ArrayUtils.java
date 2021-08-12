@@ -1,7 +1,4 @@
 package com.bayamp.training.utils;
-
-
-
 public class ArrayUtils {
 	
 	public static String toString(char[] arr) {
